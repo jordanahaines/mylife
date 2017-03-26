@@ -6,3 +6,4 @@ The thoughts below entered my head when I didn't have an afternoon to commit the
 
 
 ## Geek posts
+[ ] - It would be cool to create a Django tutorial companion. Basically a blog post follow-up to each section in the standard Django tutorial, with content geared towards more advanced users. 
